@@ -1,14 +1,28 @@
 [
   {
-    "objectID": "content/contributing.html",
-    "href": "content/contributing.html",
+    "objectID": "content/papers.html",
+    "href": "content/papers.html",
     "title": "PHENOFISH",
     "section": "",
     "text": "Work in progress…"
   },
   {
-    "objectID": "content/contributing.html#contributing",
-    "href": "content/contributing.html#contributing",
+    "objectID": "content/papers.html#publications",
+    "href": "content/papers.html#publications",
+    "title": "PHENOFISH",
+    "section": "",
+    "text": "Work in progress…"
+  },
+  {
+    "objectID": "content/software.html",
+    "href": "content/software.html",
+    "title": "PHENOFISH",
+    "section": "",
+    "text": "Work in progress…"
+  },
+  {
+    "objectID": "content/software.html#software",
+    "href": "content/software.html#software",
     "title": "PHENOFISH",
     "section": "",
     "text": "Work in progress…"
@@ -51,6 +65,20 @@
   {
     "objectID": "content/database.html#database",
     "href": "content/database.html#database",
+    "title": "PHENOFISH",
+    "section": "",
+    "text": "Work in progress…"
+  },
+  {
+    "objectID": "content/submit-data.html",
+    "href": "content/submit-data.html",
+    "title": "PHENOFISH",
+    "section": "",
+    "text": "Work in progress…"
+  },
+  {
+    "objectID": "content/submit-data.html#submit-data",
+    "href": "content/submit-data.html#submit-data",
     "title": "PHENOFISH",
     "section": "",
     "text": "Work in progress…"
