@@ -1,3 +1,3 @@
-## {{< fa upload >}} &nbsp;Contributing
+## {{< fa code >}} &nbsp;Software
 
 {{< fa triangle-exclamation >}}&nbsp; Work in progress... &nbsp;{{< fa triangle-exclamation >}}

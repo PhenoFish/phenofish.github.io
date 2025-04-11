@@ -14,7 +14,7 @@ website:
   #   logo: images/logo-cesab.png
   
   page-footer: 
-    left: "&copy; CC-BY [PHENOFISH group](https://www.fondationbiodiversite.fr/en/the-frb-in-action/programs-and-projects/le-cesab/phenofish/)"
+    left: "&copy; CC-By [PHENOFISH group](https://www.fondationbiodiversite.fr/en/the-frb-in-action/programs-and-projects/le-cesab/phenofish/)"
     center: "Code source available on [{{< fa brands github >}}](https://github.com/phenofish/phenofish.github.io/)"
     right: "Built with [Quarto](https://quarto.org/)"
     border: true 
@@ -29,8 +29,12 @@ website:
       href: content/people.qmd
     - text: "{{< fa database >}} <span class='menu-item'>Database</span>"
       href: content/database.qmd
-    - text: "{{< fa upload >}} <span class='menu-item'>Contributing</span>"
-      href: content/contributing.qmd
+    - text: "{{< fa code >}} <span class='menu-item'>Software</span>"
+      href: content/software.qmd
+    - text: "{{< fa book >}} <span class='menu-item'>Publications</span>"
+      href: content/papers.qmd
+    - text: "{{< fa upload >}} <span class='menu-item'>Submit data</span>"
+      href: content/submit-data.qmd
 
 format:
   html:
