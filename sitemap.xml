@@ -1,11 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://phenofish.github.io/LICENSE.html</loc>
-    <lastmod>2025-04-11T09:40:50.450Z</lastmod>
+    <loc>https://phenofish.github.io/content/contributing.html</loc>
+    <lastmod>2025-04-11T09:53:12.664Z</lastmod>
+  </url>
+  <url>
+    <loc>https://phenofish.github.io/content/people.html</loc>
+    <lastmod>2025-04-11T09:53:12.665Z</lastmod>
   </url>
   <url>
     <loc>https://phenofish.github.io/index.html</loc>
-    <lastmod>2025-04-11T09:40:50.464Z</lastmod>
+    <lastmod>2025-04-11T09:53:12.668Z</lastmod>
+  </url>
+  <url>
+    <loc>https://phenofish.github.io/LICENSE.html</loc>
+    <lastmod>2025-04-11T09:53:12.654Z</lastmod>
+  </url>
+  <url>
+    <loc>https://phenofish.github.io/content/database.html</loc>
+    <lastmod>2025-04-11T09:53:12.664Z</lastmod>
   </url>
 </urlset>
