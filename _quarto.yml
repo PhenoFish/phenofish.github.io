@@ -1,0 +1,36 @@
+project:
+  type: website
+  output-dir: _site
+
+website:
+  # title: "PHENOFISH"
+  site-url: https://phenofish.github.io/
+  repo-url: https://github.com/phenofish/phenofish.github.io/
+  # favicon: images/logo-cesab-square.png
+  search: false
+  
+  # sidebar:
+  #   logo: images/logo-cesab.png
+  
+  page-footer: 
+    left: "&copy; CC-BY [PHENOFISH group](https://www.fondationbiodiversite.fr/en/the-frb-in-action/programs-and-projects/le-cesab/phenofish/)"
+    center: "Code source available on [{{< fa brands github >}}](https://github.com/phenofish/phenofish.github.io/)"
+    right: "Built with [Quarto](https://quarto.org/)"
+    border: true 
+ 
+  navbar:
+    logo: img/navbar-logo.png
+    href: https://frbcesab.github.io/
+    # right:
+    # - text: "{{< fa database >}} <span class='menu-item'>Databases</span>"
+    #   href: content/databases.qmd
+
+format:
+  html:
+    theme: sandstone
+    css: css/styles.css
+    toc: false
+    header-includes: |
+      <link rel="preconnect" href="https://fonts.googleapis.com">
+      <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+      <link href="https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,300;0,400;0,500;0,600;0,700;0,800;1,300;1,400;1,500;1,600;1,700;1,800&display=swap" rel="stylesheet">
