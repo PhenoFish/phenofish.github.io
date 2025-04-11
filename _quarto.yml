@@ -21,9 +21,9 @@ website:
   navbar:
     logo: img/navbar-logo.png
     href: https://frbcesab.github.io/
-    # right:
-    # - text: "{{< fa database >}} <span class='menu-item'>Databases</span>"
-    #   href: content/databases.qmd
+    right:
+    - text: "{{< fa house >}} <span class='menu-item'>Home</span>"
+      href: index.qmd
 
 format:
   html:
