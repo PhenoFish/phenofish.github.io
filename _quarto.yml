@@ -25,11 +25,11 @@ website:
     right:
     - text: "{{< fa house >}} <span class='menu-item'>Home</span>"
       href: index.qmd
-    - text: "{{< fa people >}} <span class='menu-item'>People</span>"
+    - text: "{{< fa users >}} <span class='menu-item'>People</span>"
       href: content/people.qmd
     - text: "{{< fa database >}} <span class='menu-item'>Database</span>"
       href: content/database.qmd
-    - text: "{{< fa database >}} <span class='menu-item'>Contributing</span>"
+    - text: "{{< fa upload >}} <span class='menu-item'>Contributing</span>"
       href: content/contributing.qmd
 
 format:
