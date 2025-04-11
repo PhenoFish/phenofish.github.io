@@ -1,12 +1,13 @@
 project:
   type: website
   output-dir: _site
+  title: "Phenofish"
 
 website:
-  # title: "PHENOFISH"
+  title: "Phenofish project"
   site-url: https://phenofish.github.io/
   repo-url: https://github.com/phenofish/phenofish.github.io/
-  # favicon: images/logo-cesab-square.png
+  favicon: img/favicon/favicon-32x32.png
   search: false
   
   # sidebar:

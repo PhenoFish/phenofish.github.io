@@ -1,10 +1,11 @@
 <center>
-<img class="picture" width="5%" src="img/navbar-logo.png" />
+
+<img class="picture" width="80%" src="img/homepage-banner.png" />
 
 <br/>
 
-**PHENOFISH** Project
+**Phenofish project**
 
-{{< fa triangle-exclamation >}} Work in progress... {{< fa triangle-exclamation >}}
+{{< fa triangle-exclamation >}}&nbsp; Work in progress... &nbsp;{{< fa triangle-exclamation >}}
 
 </center>
